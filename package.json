@@ -13,7 +13,7 @@
     "chromedriver": "^80.0.2",
     "colors": "^1.4.0",
     "esm": "^3.2.25",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-notifier": "^8.0.1",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "sleep": "^6.1.0"
